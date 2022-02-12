@@ -1,4 +1,6 @@
 <div align="center">
-<img width="500pxl" height = "250pxl" src="https://image.freepik.com/free-photo/business-partners-handshake-global-corporate-with-technology-concept_53876-102615.jpg" alt="cover" />
+
 </div>
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h2 align="center"> Hi there, I'm Anastasiia <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h2>
+
+<h3 align="center">currently a student at <a href="https://42abudhabi.ae" target="_blank">42 Abu Dhabi</a>
