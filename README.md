@@ -14,9 +14,10 @@
 <h3> 📒 Current projects and languages studied
 
 ###
-- Inception (42 project, virtualize several Docker images with services such as MariaDB, Nginx, WordPress)
+- Transcendence (Final common core project at 42. A multiplayer pong game website created using VueJS, NestJS and PostgreSQL.)
 - Python
 - Qiskit
+- TypeScript
 
 <h3> 🛠 Languages and tools
 
