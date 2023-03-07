@@ -17,7 +17,7 @@
 - Transcendence (Final common core project at 42. A multiplayer pong game website created using VueJS, NestJS and PostgreSQL.)
 - Python
 - Qiskit
-- TypeScript
+- TypeScript / NestJS
 
 <h3> 🛠 Languages and tools
 
