@@ -7,7 +7,7 @@
 ###
 - My name is Anastasiia
 - Currently a student at <a href="https://42abudhabi.ae" target="_blank">42 Abu Dhabi</a>
-- I am a GIS-specialist with many years of experience, but now I am very interested in coding
+- I am a Developer with GIS experience
 - I love math and algorithms problems
 - Intrigued by quantum computing
 
