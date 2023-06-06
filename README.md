@@ -49,3 +49,7 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Anastasiia-Ni&style=flat-square&color=blue" alt=""/>
+  
+  
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anastasiia-Ni)](https://github.com/Anastasiia-Ni) -->
+
