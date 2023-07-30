@@ -6,7 +6,7 @@
 
 ###
 - My name is Anastasiia
-- Currently a student at <a href="https://42abudhabi.ae" target="_blank">42 Abu Dhabi</a>
+- Member at <a href="https://42abudhabi.ae" target="_blank">42 Abu Dhabi</a>
 - I am a Developer with GIS experience
 - I love math and algorithms problems
 - Intrigued by quantum computing
@@ -15,7 +15,6 @@
 
 ###
 - AI and Machine Learning
-- Transcendence (Final common core project at 42. A multiplayer pong game and chat website created using React, NestJS and PostgreSQL)
 - Python for AI
 - Python for Web
 - Qiskit
