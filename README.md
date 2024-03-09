@@ -16,8 +16,8 @@
 ###
 - AI and Machine Learning
 - Python for AI
-- Python for Web
-- Qiskit
+- Qt
+- Spatial Data App
 
 <h3> 🛠 Languages and tools
 
