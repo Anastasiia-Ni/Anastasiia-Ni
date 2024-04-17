@@ -16,8 +16,8 @@
 ###
 - AI and Machine Learning
 - Python for AI
-- Qt
-- Spatial Data App
+- Qt Creator
+
 
 <h3> 🛠 Languages and tools
 
