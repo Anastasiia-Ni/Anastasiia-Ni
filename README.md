@@ -6,7 +6,7 @@
 
 ###
 - My name is Anastasiia
-- Member at <a href="https://42abudhabi.ae" target="_blank">42 Abu Dhabi</a>
+- Member at <a href="https://42lyon.fr/" target="_blank">42 Lyon</a>
 - I am a Developer with GIS experience
 - I love math and algorithms problems
 - Intrigued by quantum computing
