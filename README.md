@@ -14,9 +14,9 @@
 <h3> 📒 Current projects and languages studied
 
 ###
-- AI and Machine Learning
-- Python for AI
+- OpenGL for graphics applications
 - Qt Creator
+- AI and Machine Learning
 
 
 <h3> 🛠 Languages and tools
